@@ -6,4 +6,4 @@
 
 #### Receitas:
 
-[:heavy_check_mark: Torta de Limão](./receitas/tortadelimao.md)
+:heavy_check_mark: [Torta de Limão](./receitas/tortadelimao.md)
