@@ -5,19 +5,25 @@
 ##### Massa:
 
 :heavy_check_mark: 200 g de biscoito de maisena
+
 :heavy_check_mark: 150 g de margarina
 
 ##### Recheio:
 
 :heavy_check_mark: 1 lata de leite condensado (395 g)
+
 :heavy_check_mark: 1 caixa de creme de leite (200 g)
+
 :heavy_check_mark: suco de 4 limões
+
 :heavy_check_mark: raspas de 2 limões
 
 ##### Cobertura:
 
 :heavy_check_mark: 3 ou 4 claras de ovo
+
 :heavy_check_mark: 3 colheres (sopa) de açúcar
+
 :heavy_check_mark: raspas de 2 limões para decorar
 
 ### :man_cook: **Modo de Preparo**
